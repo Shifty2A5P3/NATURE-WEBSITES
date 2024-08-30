@@ -1,0 +1,365 @@
+.divider{
+    width: 100.5%;
+    height: 764px;
+    /* border: 2px solid black; */
+    margin-top: -5px;
+    margin-left: -5px;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20230411/pngtree-nature-forest-sun-ecology-image_2256183.jpg");
+    background-size: cover;
+}
+.logo{
+    height: 120px;
+    width: 120px;
+    /* border: 2px solid black; */
+    margin-top: 0px;
+    margin-left: 25px;
+    /* background-image: url(https://i.pinimg.com/736x/63/cc/33/63cc33adefc37551991792326778b527.jpg);
+    background-size: cover; */
+    }
+    .nl{
+        font-size: 4em;
+        font-weight: bold;
+        color: white;
+        margin-top: 0px;
+    }
+.contact{
+    height: 40px;
+    width: 600px;
+    /* border: 2px solid black; */
+    margin-left: 800px;
+    margin-top: -80.5px;
+    color: white;
+}
+.about{
+    padding: 30px;
+    text-decoration: none;
+    color: black;
+    padding-top: 30px;
+    color: white;
+}
+
+.number{
+    width: 100px;
+    height: 18px;
+    border: 1px solid white;
+    margin-top: -21px;
+    margin-left: 450px;
+    padding: 4px;
+    color: white;
+}
+.we{
+    width: 300px;
+    height: 100px;
+    margin-left: 600px;
+    margin-top: 160px;
+    
+    /* border: 2px solid black; */
+}
+.wea{
+    font-size: 3em;
+    color: white;
+}
+.na{
+width: 300px;
+height: 100px;
+/* border: 2px solid black; */
+margin-left: 580px;
+margin-top: -65px;
+}
+.nat{
+font-size: 6.5em;
+margin-top: -20px;
+color: white;
+}
+.look{
+    width:350px;
+    height: 40px; 
+    margin-left:560px ;
+    margin-top:20px ;
+    /* border: 2px solid black; */
+}
+.lookd{
+    font-size: 1.35em;
+    margin-top: 0px;
+    color: white;
+}
+.under{
+width: 300px;
+height: 40px;
+margin-left:570px ;
+margin-top: -38px;
+/* border: 2px solid black; */
+}
+.unders{
+    font-size: 1.35em;
+    color: white;
+}
+.start{
+    text-decoration: none;
+color: darkgrey;
+/* padding: 10px; */
+font-size: 1.35em;
+margin-top: 10px;
+}
+.btn1{
+    background-color: yellow;
+    margin-top: 30px;
+    margin-left: 610px;
+    width: 150px;
+    height: 25px;
+    font-weight: lighter;
+    text-align: center;
+    justify-content: center;
+}
+.services{
+    width: 300px;
+    height: 100px;
+    /* border: 2px solid black; */
+    margin-top: 20px;
+    margin-left: 650px;
+    
+}
+.ser{
+    font-size: 1.95em;
+    color: grey;
+}
+.dash{
+    width: 100px;
+    height: 2.5px;
+    background-color: yellow;
+    margin-top: -15px;
+    margin-left: 25px;
+}
+.web{
+    height: 550px;
+    width: 300px;
+    /* border: 2px solid black; */
+    margin-top: 15px;
+    margin-left: 260px;
+    color: grey;
+}
+.graphic{
+    height: 550px;
+    width: 300px;
+    /* border: 2px solid black; */
+    margin-top: -553px;
+    margin-left: 595px;
+    color: grey;
+}
+.content{
+    height: 550px;
+    width: 300px;
+    /* border: 2px solid black; */
+    margin-top: -553px;
+    margin-left: 930px;
+    color: grey;
+}
+.web1{
+    width: 300px;
+    height: 400px;
+    /* border: 2px solid black; */
+}
+.graphic1{
+    width: 300px;
+    height: 400px;
+    /* border: 2px solid black; */
+}
+.content1{
+    width: 300px;
+    height: 400px;
+    /* border: 2px solid black; */
+}
+.web2{
+    margin-top: 10px;
+    font-size: 1.5em;
+}
+.graphic2{
+    font-size: 1.5em;
+    margin-top: 10px;
+}
+.content2{
+    font-size: 1.5em;
+    margin-top: 10px;
+}
+.container{
+    width: 100%;
+    height: 450px;
+    /* border: 2px solid black; */
+    margin-top: 40px;
+    background-color: lightgrey;
+}
+.symbol{
+    /* border-radius: 50%; */
+    width: 200px;
+    height: 100px;
+    /* border: 2px solid black; */
+    margin-left: 43%;
+    margin-top: 0px;
+    /* background-image: url(https://www.pngitem.com/pimgs/m/215-2150960_left-quote-icon-arch-hd-png-download.png);
+    background-size: contain; */
+}
+/* .symimg{
+    opacity: transparent;
+} */
+ .wrquo{
+    font-weight: bold;
+    color: grey;
+    font-size: 2.5em;
+    margin-top: 0px;
+ }
+ .f1{
+    font-size: 2em;
+    color: grey;
+ }
+ .s2{
+    font-size: 2em;
+    color:grey;
+ }
+ .first{
+    margin-left: 10%;
+ }
+ .second{
+    margin-left: 6%;
+    margin-top: -20px;
+ }
+ .face{
+    margin-left: 46%;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    /* border: 1px solid black; */
+    border-radius:50% ;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG49hTD77IQY3oL-gp34W-iOdP2yunfgFAxQ&amp;s);
+    background-size: cover;
+ }
+ .munsi{
+margin-left: 45.3%;
+ }
+ .last2{
+    margin-top: 45px;
+    width: 100%;
+    height: 600px;
+    /* border: 1px solid black; */
+ }
+ .leaf{
+    width: 450px;
+    height: 600px;
+/* border: 1px solid black; */
+margin-left: 1010px;
+background-image: url(https://www.shutterstock.com/image-photo/caucasian-girls-hand-holding-yellow-600nw-1895685730.jpg);
+background-size: cover;
+ }
+ .us{
+    width: 200px;
+    height: 50px;
+    /* border: 2px solid black; */
+    margin-top: -590px;
+    margin-left: 50px;
+    color: darkgrey;
+ }
+ .tell{
+    width: 600px;
+    height: 200px;
+    /* border: 1px solid black; */
+    margin-left: -1px;
+    font-size: 2.5em;
+    margin-top: -20px;
+    color: grey;
+ }
+ .beca{
+    width: 800px;
+    height: 400px;
+    /* border: 1px solid black; */
+    font-size: 0.70em;
+    margin-top: -50px;
+    color: darkgrey;
+ }
+ button{
+    margin-top: 320px;
+    margin-left: 50px;
+    width: 200px;
+    height: 50px;
+    font-size: 1.05em;
+    color: grey;
+    background-color: white;
+    border-radius: 4px;
+    border: 1px solid grey;
+    box-shadow: 2px 2px lightgrey;
+ }
+ .almostlast{
+    width: 100%;
+    height: 450px;
+    margin-top: 50px;
+    background-image: url(https://images.unsplash.com/photo-1672172323236-23d3c4581c93?fm=jpg&amp;q=60&amp;w=3000&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW91bnRhaW5zJTIwYW5kJTIwc2t5fGVufDB8fDB8fHww);
+    background-size: cover;
+    /* border: 1px solid black; */
+ }
+ .ques{
+    width: 250px;
+    height: 50px;
+    /* border: 1px solid black; */
+    margin-left: 40%;
+    margin-top: 20px;
+    font-size: 2.5em;
+    color: green;
+ }
+ .whet{
+    width: 75%;
+    height: 25px;
+    /* border: 1px solid black; */
+    margin-left: 320px;
+    font-size: 1.15em;
+    margin-top: 0px;
+    color: grey;
+ }
+ .here{
+    height: 25px;
+    width: fit-content;
+    margin-left: 620px;
+    font-size: 1.15em;
+    color: grey;
+ }
+ .lets{
+    width: 200px;
+    height: 50px;
+    color: green;
+    background-color: yellow;
+    margin-top: 20px;
+    margin-left: 620px;
+    border: 1px solid yellow;
+ }
+ .last{
+    width: 99%;
+    height: 100px;
+    /* border: 1px solid black; */
+    margin-left: 8px;
+    margin-top: 40px;
+ }
+ .why{
+    padding: 10px;
+margin-left: 20px;
+text-decoration: none;
+color: grey;
+margin-top: 400px;
+}
+.kyu{
+    font-size: 4em;
+    font-weight: bold;
+    color: grey;
+    margin-top: -43px;
+    margin-left: 670px;
+}
+.very{
+    color: grey;
+    margin-left: 80%;
+    font-size: 1.5em;
+    margin-top: -53px;
+}
+.Thank{
+    color: grey;
+    margin-left: 43%;
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: black;
+}
